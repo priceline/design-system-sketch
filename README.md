@@ -1,6 +1,6 @@
-# design-system-sketch
+# Design System - Sketch
 
-Recommended plugins</br>
-    — Relabel button: https://github.com/kenmoore/sketch-relabel-button</br>
-    — Shared text styles: https://github.com/nilshoenson/shared-text-styles</br>
-    — Sketch Palettes: https://github.com/andrewfiorillo/sketch-palettes
+Recommended plugins
+    * Relabel button: https://github.com/kenmoore/sketch-relabel-button
+    * Shared text styles: https://github.com/nilshoenson/shared-text-styles
+    * Sketch Palettes: https://github.com/andrewfiorillo/sketch-palettes
