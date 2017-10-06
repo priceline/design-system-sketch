@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>amenitiy / smoking / dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="amenitiy-/-smoking-/-dark">
+            <g id="smoking">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M2,6 L8.99,13 L2,13 L2,16 L11.99,16 L18.99,23 L20.25,21.75 L3.25,4.75 L2,6 Z M20.5,13 L22,13 L22,16 L20.5,16 L20.5,13 Z M18,13 L19.5,13 L19.5,16 L18,16 L18,13 Z M18.85,4.88 C19.47,4.27 19.85,3.43 19.85,2.5 L18.35,2.5 C18.35,3.52 17.52,4.35 16.5,4.35 L16.5,5.85 C18.74,5.85 20.5,7.68 20.5,9.92 L20.5,12 L22,12 L22,9.92 C22,7.69 20.72,5.77 18.85,4.88 Z M14.5,8.7 L16.03,8.7 C17.08,8.7 18,9.44 18,10.75 L18,12 L19.5,12 L19.5,10.41 C19.5,8.61 17.9,7.25 16.03,7.25 L14.5,7.25 C13.48,7.25 12.65,6.27 12.65,5.25 C12.65,4.23 13.48,3.5 14.5,3.5 L14.5,2 C12.65,2 11.15,3.5 11.15,5.35 C11.15,7.2 12.65,8.7 14.5,8.7 Z M17,15.93 L17,13 L14.07,13 L17,15.93 Z" id="Shape" fill="#001833" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>extra / overnight / dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="extra-/-overnight-/-dark">
+            <g id="overnight">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M16.6025,9.55974115 L17.1925,11.5397411 L15.4925,10.3697411 L13.7925,11.5397411 L14.3825,9.55974115 L12.7425,8.30974115 L14.8025,8.25974115 L15.4925,6.30974115 L16.1825,8.25974115 L18.2425,8.30974115 L16.6025,9.55974115 Z M21.1525,17.1097411 C20.8325,17.5597411 20.4925,17.9797411 20.0725,18.3797411 C16.1625,22.3097411 9.8325,22.3097411 5.9325,18.3797411 C2.0225,14.4797411 2.0225,8.13974115 5.9325,4.23974115 C6.3325,3.83974115 6.7525,3.47974115 7.2025,3.15974115 C7.9525,2.62974115 9.1325,3.51974115 9.0525,4.34974115 C8.7825,7.20974115 9.7425,10.1797411 11.9425,12.3697411 C14.1325,14.5697411 17.0925,15.5297411 19.9625,15.2597411 C20.7925,15.1797411 21.6825,16.3597411 21.1525,17.1097411 Z" id="Shape" fill="#001833" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
