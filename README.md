@@ -1,5 +1,5 @@
 ### Install Priceline One
-+ Download the latest release
++ Download the [latest release](https://github.com/pricelinelabs/design-system-sketch/releases)
 + In Sketch open preferences & navigate to 'Libraries'
 + Import the Priceline One.sketch and Icons.sketch files
 
