@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,20 C17.61,20 16.22,19.53 15,18.68 C12.56,20.39 9.44,20.39 7,18.68 C5.78,19.53 4.39,20 3,20 L1,20 L1,22 L3,22 C4.38,22 5.74,21.65 7,21.01 C9.52,22.3 12.48,22.3 15,21.01 C16.26,21.66 17.62,22 19,22 L21,22 L21,20 L19,20 Z M2.95,18 L3,18 C4.6,18 6.02,17.12 7,16 C7.98,17.12 9.4,18 11,18 C12.6,18 14.02,17.12 15,16 C15.98,17.12 17.4,18 19,18 L19.05,18 L20.94,11.32 C21.02,11.06 21,10.78 20.88,10.54 C20.76,10.3 20.54,10.12 20.28,10.04 L19,9.62 L19,5 C19,3.9 18.1,3 17,3 L14,3 L14,0 L8,0 L8,3 L5,3 C3.9,3 3,3.9 3,5 L3,9.62 L1.71,10.04 C1.45,10.12 1.23,10.3 1.11,10.54 C0.99,10.78 0.96,11.06 1.05,11.32 L2.95,18 Z M5,5 L17,5 L17,8.97 L11,7 L5,8.97 L5,5 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-/-cruise" transform="translate(-2.000000, -1.000000)">
+            <g id="cruise">
+                <g id="Icon-🎨" transform="translate(1.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

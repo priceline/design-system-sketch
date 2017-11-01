@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 C4.48,0 0,4.48 0,10 C0,15.52 4.48,20 10,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 10,0 Z M11,17 L9,17 L9,15 L11,15 L11,17 Z M13.07,9.25 L12.17,10.17 C11.45,10.9 11,11.5 11,13 L9,13 L9,12.5 C9,11.4 9.45,10.4 10.17,9.67 L11.41,8.41 C11.78,8.05 12,7.55 12,7 C12,5.9 11.1,5 10,5 C8.9,5 8,5.9 8,7 L6,7 C6,4.79 7.79,3 10,3 C12.21,3 14,4.79 14,7 C14,7.88 13.64,8.68 13.07,9.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="communication-/-help" transform="translate(-2.000000, -2.000000)">
+            <g id="help">
+                <g id="Icon-🎨" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

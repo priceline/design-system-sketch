@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,13 C8.34314575,13 7,11.6568542 7,10 C7,8.88 7.61,7.9 8.5,7.39 L18.21,1.77 L12.68,11.35 C12.18,12.33 11.17,13 10,13 L10,13 Z M10,0 C11.81,0 13.5,0.5 14.97,1.32 L12.87,2.53 C12,2.19 11,2 10,2 C5.581722,2 2,5.581722 2,10 C2,12.21 2.89,14.21 4.34,15.65 L4.35,15.65 C4.74,16.04 4.74,16.67 4.35,17.06 C3.96,17.45 3.32,17.45 2.93,17.07 L2.93,17.07 C1.12,15.26 0,12.76 0,10 C-8.8817842e-16,4.4771525 4.4771525,1.77635684e-15 10,4.4408921e-16 L10,0 Z M20,10 C20,12.76 18.88,15.26 17.07,17.07 L17.07,17.07 C16.68,17.45 16.05,17.45 15.66,17.06 C15.27,16.67 15.27,16.04 15.66,15.65 L15.66,15.65 C17.11,14.2 18,12.21 18,10 C18,9 17.81,8 17.46,7.1 L18.67,5 C19.5,6.5 20,8.18 20,10 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="amenitiy-/-mileage" transform="translate(-2.000000, -3.000000)">
+            <g id="mileage">
+                <g id="Icon-🎨" transform="translate(2.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

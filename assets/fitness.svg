@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="18.57 12.86 20 11.43 18.57 10 15 13.57 6.43 5 10 1.43 8.57 0 7.14 1.43 5.71 0 3.57 2.14 2.14 0.71 0.71 2.14 2.14 3.57 0 5.71 1.43 7.14 0 8.57 1.43 10 5 6.43 13.57 15 10 18.57 11.43 20 12.86 18.57 14.29 20 16.43 17.86 17.86 19.29 19.29 17.86 17.86 16.43 20 14.29"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="amenitiy-/-fitness" transform="translate(-2.000000, -2.000000)">
+            <g id="fitness">
+                <g id="Icon-🎨" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

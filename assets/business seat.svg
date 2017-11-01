@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.35,3.64 C2.45,3 2.23,1.76 2.86,0.85 C3.49,-0.05 4.74,-0.27 5.65,0.36 C6.55,1 6.77,2.24 6.14,3.15 C5.5,4.05 4.26,4.27 3.35,3.64 L3.35,3.64 Z M14,17 L6.93,17 C5.45,17 4.19,15.92 3.97,14.46 L2,5 L0,5 L1.99,14.76 C2.37,17.2 4.47,19 6.94,19 L14,19 L14,17 Z M14.23,13 L9.35,13 L8.32,8.9 C9.9,9.79 11.6,10.44 13.47,10.12 L13.47,7.99 C11.84,8.3 10.03,7.72 8.78,6.74 L7.14,5.47 C6.91,5.29 6.65,5.17 6.38,5.09 C6.06,5 5.72,4.97 5.39,5.03 L5.37,5.03 C4.14,5.25 3.32,6.42 3.53,7.64 L4.88,13.56 C5.16,14.98 6.39,16 7.83,16 L14.68,16 L18.5,19 L20,17.5 L14.23,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="extra-/-business-seat" transform="translate(-2.000000, -2.000000)">
+            <g id="business-seat">
+                <g id="Icon-🎨" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

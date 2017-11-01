@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,20 L4,20 L4,8 L0,8 L0,20 Z M22,9 C22,7.9 21.1,7 20,7 L13.69,7 L14.64,2.43 L14.67,2.11 C14.67,1.7 14.5,1.32 14.23,1.05 L13.17,0 L6.59,6.59 C6.22,6.95 6,7.45 6,8 L6,18 C6,19.1 6.9,20 8,20 L17,20 C17.83,20 18.54,19.5 18.84,18.78 L21.86,11.73 C21.95,11.5 22,11.26 22,11 L22,9.09 L21.99,9.08 L22,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="extra-/-thumbs-up" transform="translate(-1.000000, -2.000000)">
+            <g id="thumbs-up">
+                <g id="Icon-🎨" transform="translate(1.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

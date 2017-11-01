@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.5909091,3.63636364 C9.84545455,1.51818182 7.82727273,0 5.45454545,0 C2.44545455,0 0,2.44545455 0,5.45454545 C0,8.46363636 2.44545455,10.9090909 5.45454545,10.9090909 C7.82727273,10.9090909 9.84545455,9.39090909 10.5909091,7.27272727 L14.5454545,7.27272727 L14.5454545,10.9090909 L18.1818182,10.9090909 L18.1818182,7.27272727 L20,7.27272727 L20,3.63636364 L10.5909091,3.63636364 Z M5.45454545,7.27272727 C4.45454545,7.27272727 3.63636364,6.45454545 3.63636364,5.45454545 C3.63636364,4.45454545 4.45454545,3.63636364 5.45454545,3.63636364 C6.45454545,3.63636364 7.27272727,4.45454545 7.27272727,5.45454545 C7.27272727,6.45454545 6.45454545,7.27272727 5.45454545,7.27272727 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-/-rooms" transform="translate(-2.000000, -7.000000)">
+            <g id="rooms">
+                <g id="Icon-🎨" transform="translate(2.000000, 7.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
