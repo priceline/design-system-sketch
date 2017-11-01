@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>Mask</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M14,0 L7.07234947,0 L7.07234947,-8.8817842e-16 C6.40255174,-7.65138572e-16 5.77722056,0.335286779 5.40654234,0.893163703 L0.352851382,8.4990531 L0.352851382,8.4990531 C0.135752546,8.82579048 0.0195352027,9.20915877 0.0186634556,9.60144497 L0,18 C0,19.1 0.9,20 2,20 L14,20 C15.1,20 16,19.1 16,18 L16,2 C16,0.9 15.1,0 14,0 Z M14,9 L2.69868021,9 L7.43584471,2 L14,2 L14,9 Z" id="path-1"></path>
-    </defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="amenitiy-/-car-door" transform="translate(-4.000000, -2.000000)">
-            <g id="car-door">
-                <g id="Icon-🎨" transform="translate(4.000000, 2.000000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 20" style="enable-background:new 0 0 16 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001833;}
+</style>
+<path id="path-1_1_" class="st0" d="M14,0H7.1l0,0C6.4,0,5.8,0.3,5.4,0.9L0.4,8.5l0,0C0.1,8.8,0,9.2,0,9.6L0,18c0,1.1,0.9,2,2,2h12
+	c1.1,0,2-0.9,2-2V2C16,0.9,15.1,0,14,0z M14,9H2.7l4.7-7H14V9z"/>
 </svg>

@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>Mask</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M3.62,7.79 C5.06,10.62 7.38,12.93 10.21,14.38 L12.41,12.18 C12.68,11.91 13.08,11.82 13.43,11.94 C14.55,12.31 15.76,12.51 17,12.51 C17.55,12.51 18,12.96 18,13.51 L18,17 C18,17.55 17.55,18 17,18 C7.61,18 0,10.39 0,1 C0,0.45 0.45,0 1,0 L4.5,0 C5.05,0 5.5,0.45 5.5,1 C5.5,2.25 5.7,3.45 6.07,4.57 C6.18,4.92 6.1,5.31 5.82,5.59 L3.62,7.79 Z" id="path-1"></path>
-    </defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="communication-/-phone" transform="translate(-3.000000, -3.000000)">
-            <g id="phone">
-                <g id="Icon-🎨" transform="translate(3.000000, 3.000000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001833;}
+</style>
+<path class="st0" d="M3.6,7.8c1.4,2.8,3.8,5.1,6.6,6.6l2.2-2.2c0.3-0.3,0.7-0.4,1-0.2c1.1,0.4,2.3,0.6,3.6,0.6c0.5,0,1,0.4,1,1V17
+	c0,0.5-0.5,1-1,1C7.6,18,0,10.4,0,1c0-0.6,0.4-1,1-1h3.5c0.6,0,1,0.4,1,1c0,1.2,0.2,2.5,0.6,3.6c0.1,0.3,0,0.7-0.2,1L3.6,7.8z"/>
 </svg>

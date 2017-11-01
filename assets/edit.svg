@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>Mask</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M0,15.25 L0,19 L3.75,19 L14.81,7.94 L11.06,4.19 L0,15.25 Z M17.71,5.04 C18.1,4.65 18.1,4.02 17.71,3.63 L15.37,1.29 C14.98,0.9 14.35,0.9 13.96,1.29 L12.13,3.12 L15.88,6.87 L17.71,5.04 Z" id="path-1"></path>
-    </defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="action-/-edit" transform="translate(-3.000000, -3.000000)">
-            <g id="edit">
-                <g id="Icon-🎨" transform="translate(3.000000, 2.000000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Mask" fill="#001833" fill-rule="nonzero" xlink:href="#path-1"></use>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001833;}
+</style>
+<path id="path-1_1_" class="st0" d="M0,14.2V18h3.8L14.8,6.9l-3.8-3.8L0,14.2z M17.7,4c0.4-0.4,0.4-1,0-1.4l-2.3-2.3
+	c-0.4-0.4-1-0.4-1.4,0l-1.8,1.8l3.8,3.8L17.7,4z"/>
 </svg>
