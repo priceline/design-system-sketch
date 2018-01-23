@@ -5,7 +5,7 @@
 ## Install Priceline One
 + Download the [latest release](https://github.com/pricelinelabs/design-system-sketch/releases).
 + In Sketch open preferences & navigate to 'Libraries'.
-+ Import the PricelineOne.sketch and PricelineOne.sketch files.
++ Import the PricelineOne.sketch and PricelineOneIcons.sketch files.
 + Optionally import the PricelineOneEmail.sketch file for access to email specific components.
 
 ## Recommended plugins
